@@ -12,7 +12,6 @@ Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** y tengo una titulaci�
 
 ## 📫 Conéctate conmigo
 
-- [LinkedIn](enlace-a-tu-linkedin)
 - [Correo electrónico](mailto:pablodiescj@gmail.com)
 
 ¡Gracias por visitar mi perfil! Estoy emocionado por las oportunidades de colaboración y aprendizaje. No dudes en contactarme si tienes alguna pregunta o si quieres trabajar juntos en un proyecto.
