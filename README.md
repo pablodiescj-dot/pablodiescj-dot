@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hola, soy Pablo Díaz Hernández
 
-<!--
-**pablodiescj-dot/pablodiescj-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** y tengo una titulación en **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Me apasiona la programación y el desarrollo de software, y siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades.
 
-Here are some ideas to get you started:
+## 🚀 Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Lenguajes de programación**: JavaScript, Java y PHP.
+- **Frameworks y bibliotecas**: Laravel y SpringBoot.
+- **Bases de datos**: MySQL, MongoDB y PlSQL.
+- **Herramientas**: Git, GitHub, Visual Studio Code, Postman, Android Studio, Eclipse y Netbeans.
+- **Otros**: HTML, CSS, RESTful APIs, diseño responsive, NodeJs y BootStrap. 
+
+## 📫 Conéctate conmigo
+
+- [LinkedIn](enlace-a-tu-linkedin)
+- [Correo electrónico](mailto:pablodiescj@gmail.com)
+
+¡Gracias por visitar mi perfil! Estoy emocionado por las oportunidades de colaboración y aprendizaje. No dudes en contactarme si tienes alguna pregunta o si quieres trabajar juntos en un proyecto.
